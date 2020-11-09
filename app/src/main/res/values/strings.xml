@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Akasztofa</string>
+    <string name="app_name">Akasztófa</string>
+    <string name="msgSuccess">&lt;b>Helyes megfejtés!&lt;/b></string>
+    <string name="msgEndGame">&lt;b>Nem sikerült kitalálni!&lt;/b></string>
 </resources>
